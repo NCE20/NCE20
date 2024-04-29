@@ -1,6 +1,5 @@
 
-# Chaeeun Noh
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Chaeeun%20Noh&fontSize=90)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=nce0130)](https://solved.ac/nce0130/)
 
 ## 💪 Skills
